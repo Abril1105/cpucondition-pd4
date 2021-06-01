@@ -7,7 +7,7 @@
 41-F110-04
 
 41-F110-05 
-
+Mouse is laggy 
 41-F110-06
 
 41-F110-07
@@ -15,11 +15,11 @@
 41-F110-08
 
 41-F110-09
-
+Web cam is blurry 
 41-F110-11
 
 41-F110-12 
-
+Difficulty logging in 
 41-F110-13
 
 41-F110-14
